@@ -1,0 +1,10 @@
+nopcommerce\Utilities\ReadConfig.class
+nopcommerce\TestScripts\Nopcommerce_US001_TC003.class
+nopcommerce\TestScripts\Nopcommerce_US001_TC002.class
+nopcommerce\PageObjects\Nopcommerce_US001_Page.class
+nopcommerce\Utilities\Common.class
+nopcommerce\TestScripts\Base.class
+nopcommerce\Utilities\Reporting.class
+nopcommerce\TestScripts\Nopcommerce_US001_TC001.class
+nopcommerce\TestScripts\Nopcommerce_US001_TC004.class
+nopcommerce\Utilities\Execution.class

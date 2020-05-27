@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NopCommerce Test" duration-ms="16753" started-at="2020-05-27T13:23:22Z" finished-at="2020-05-27T13:23:39Z">
+    <groups>
+    </groups>
+    <test name="Nopcommerce_US001_TC001" duration-ms="2485" started-at="2020-05-27T13:23:22Z" finished-at="2020-05-27T13:23:25Z">
+      <class name="nopcommerce.TestScripts.Nopcommerce_US001_TC001">
+        <test-method status="PASS" signature="beforeClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC001@5594a1b5]" name="beforeClassSetup" is-config="true" duration-ms="1927" started-at="2020-05-27T13:23:22Z" finished-at="2020-05-27T13:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetup -->
+        <test-method status="PASS" signature="loginButtonEnableCheck()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC001@5594a1b5]" name="loginButtonEnableCheck" duration-ms="87" started-at="2020-05-27T13:23:24Z" finished-at="2020-05-27T13:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonEnableCheck -->
+        <test-method status="PASS" signature="afterClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC001@5594a1b5]" name="afterClassSetup" is-config="true" duration-ms="447" started-at="2020-05-27T13:23:24Z" finished-at="2020-05-27T13:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassSetup -->
+      </class> <!-- nopcommerce.TestScripts.Nopcommerce_US001_TC001 -->
+    </test> <!-- Nopcommerce_US001_TC001 -->
+    <test name="Nopcommerce_US001_TC002" duration-ms="2435" started-at="2020-05-27T13:23:25Z" finished-at="2020-05-27T13:23:28Z">
+      <class name="nopcommerce.TestScripts.Nopcommerce_US001_TC002">
+        <test-method status="PASS" signature="beforeClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC002@7f690630]" name="beforeClassSetup" is-config="true" duration-ms="582" started-at="2020-05-27T13:23:25Z" finished-at="2020-05-27T13:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetup -->
+        <test-method status="PASS" signature="fieldsCheckup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC002@7f690630]" name="fieldsCheckup" duration-ms="1551" started-at="2020-05-27T13:23:26Z" finished-at="2020-05-27T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fieldsCheckup -->
+        <test-method status="PASS" signature="afterClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC002@7f690630]" name="afterClassSetup" is-config="true" duration-ms="298" started-at="2020-05-27T13:23:27Z" finished-at="2020-05-27T13:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassSetup -->
+      </class> <!-- nopcommerce.TestScripts.Nopcommerce_US001_TC002 -->
+    </test> <!-- Nopcommerce_US001_TC002 -->
+    <test name="Nopcommerce_US001_TC003" duration-ms="2171" started-at="2020-05-27T13:23:28Z" finished-at="2020-05-27T13:23:30Z">
+      <class name="nopcommerce.TestScripts.Nopcommerce_US001_TC003">
+        <test-method status="PASS" signature="beforeClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC003@6cd8737]" name="beforeClassSetup" is-config="true" duration-ms="1392" started-at="2020-05-27T13:23:28Z" finished-at="2020-05-27T13:23:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetup -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC003@6cd8737]" name="invalidLoginTest" duration-ms="515" started-at="2020-05-27T13:23:29Z" finished-at="2020-05-27T13:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="afterClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC003@6cd8737]" name="afterClassSetup" is-config="true" duration-ms="262" started-at="2020-05-27T13:23:30Z" finished-at="2020-05-27T13:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassSetup -->
+      </class> <!-- nopcommerce.TestScripts.Nopcommerce_US001_TC003 -->
+    </test> <!-- Nopcommerce_US001_TC003 -->
+    <test name="Nopcommerce_US001_TC004" duration-ms="8855" started-at="2020-05-27T13:23:30Z" finished-at="2020-05-27T13:23:39Z">
+      <class name="nopcommerce.TestScripts.Nopcommerce_US001_TC004">
+        <test-method status="PASS" signature="setup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC004@5ebec15]" name="setup" is-config="true" duration-ms="11830" started-at="2020-05-27T13:23:10Z" finished-at="2020-05-27T13:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC004@5ebec15]" name="beforeClassSetup" is-config="true" duration-ms="1649" started-at="2020-05-27T13:23:30Z" finished-at="2020-05-27T13:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetup -->
+        <test-method status="PASS" signature="Login_Test()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC004@5ebec15]" name="Login_Test" duration-ms="6549" started-at="2020-05-27T13:23:32Z" finished-at="2020-05-27T13:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test -->
+        <test-method status="PASS" signature="afterClassSetup()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC004@5ebec15]" name="afterClassSetup" is-config="true" duration-ms="653" started-at="2020-05-27T13:23:38Z" finished-at="2020-05-27T13:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassSetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:nopcommerce.TestScripts.Nopcommerce_US001_TC004@5ebec15]" name="tearDown" is-config="true" duration-ms="630" started-at="2020-05-27T13:23:39Z" finished-at="2020-05-27T13:23:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- nopcommerce.TestScripts.Nopcommerce_US001_TC004 -->
+    </test> <!-- Nopcommerce_US001_TC004 -->
+  </suite> <!-- NopCommerce Test -->
+</testng-results>

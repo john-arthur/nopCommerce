@@ -1,0 +1,31 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="NopCommerce Test" parallel="methods" thread-count="1">
+
+	<listeners>
+		<listener class-name="nopcommerce.Utilities.Reporting" />
+	</listeners>
+
+	<test name="Nopcommerce_US001_TC001">
+		<classes>
+			<class name="nopcommerce.TestScripts.Nopcommerce_US001_TC001"></class>
+		</classes>
+	</test>
+
+	<test name="Nopcommerce_US001_TC002">
+		<classes>
+			<class name="nopcommerce.TestScripts.Nopcommerce_US001_TC002"></class>
+		</classes>
+	</test>
+
+	<test name="Nopcommerce_US001_TC003">
+		<classes>
+			<class name="nopcommerce.TestScripts.Nopcommerce_US001_TC003"></class>
+		</classes>
+	</test>
+
+	<test name="Nopcommerce_US001_TC004">
+		<classes>
+			<class name="nopcommerce.TestScripts.Nopcommerce_US001_TC004"></class>
+		</classes>
+	</test>
+</suite>
